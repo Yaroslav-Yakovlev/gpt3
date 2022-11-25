@@ -1,1 +1,1 @@
-import React from 'react';import './blog.css';const Blog = () => {    return (        <div>            hello world        </div>    );};export default Blog;
+import React from 'react';import './blog.css';const Blog = () => {    return (        <div>            Blog        </div>    );};export default Blog;
